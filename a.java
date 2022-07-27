@@ -1,4 +1,4 @@
-package Java;
+
 import java.util.Arrays;
 import java.util.Scanner;
 // pen= 10 book=40
