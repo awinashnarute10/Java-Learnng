@@ -9,11 +9,11 @@ public class randomnumberguesserproject {
         while (i > 0) {
             System.out.println("guess a number");
             try {
-                Scanner sc = new Scanner(System.in);
 
+                Scanner sc = new Scanner(System.in);
                 int n = sc.nextInt();
 
-                //
+                // sss\n
 
                 if (n < 0) {
                     System.out.println("You chose to quit");
